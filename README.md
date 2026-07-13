@@ -20,12 +20,15 @@ The Cloud Security Posture Dashboard is a sleek, real-time web application desig
 
 ## Screenshots
 
+Dashboard
 ![Dashboard Overview](screenshots/dashboard.png)
 *The main dashboard view showing summary cards, severity distribution, and findings.*
 
+Resouces
 ![Resources View](screenshots/resources.png)
 *Cloud Resources view dynamically listing monitored infrastructure and associated risks.*
 
+Settings
 ![Settings Page](screenshots/settings.png)
 *Settings configuration for AWS account details, refresh intervals, and email alerts.*
 
